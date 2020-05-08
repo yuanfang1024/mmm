@@ -1,0 +1,77 @@
+.more{float:right;padding-right:15px;display:block;color:#fff}
+.more a{color:#fff;}
+.mtop{margin-top:8px}
+
+.fl{float:left}
+.fr{float:right}
+
+.ad_index{width:960px;min-height:50px;}
+.bighd{background:url("bighd.jpg")/*tpa=http://cms2.huanghuai.edu.cn/skin/sites/hh-xiaoyou//index/bighd.jpg*/ no-repeat;width:1200px;height:35px;line-height:35px;margin:10px 0;}
+.bighd .tt{width:191px;text-align:center;font-size:24px;font-weight:bold;color:#fff;float:left;padding-right:50px;}
+.bighd .con{float:left;}
+.bighd .con a{margin-right:15px;font-size:14px;font-weight:bold;color:#fff}
+
+.siderBox{width:434px;float:left}
+.mainBox{width:754px;padding-left:8px;float:right}
+
+.focusbox{border:#b8dae4 1px solid;width:291px;padding:5px;min-height:50px;}
+
+.lfbox1{border:#b8dae4 1px solid;overflow:hidden;margin-top:10px}
+.lfbox1 .hd{background:url("lfbox1_hd.gif")/*tpa=http://cms2.huanghuai.edu.cn/skin/sites/hh-xiaoyou//index/lfbox1_hd.gif*/ repeat-x;height:31px;line-height:31px;}
+
+
+.lfbox1 .hd .tt{background:url("lfbox1_tt.gif")/*tpa=http://cms2.huanghuai.edu.cn/skin/sites/hh-xiaoyou//index/lfbox1_tt.gif*/ no-repeat 15px center;padding-left:40px;color:#fff;font-size:14px;font-weight:bold;display:block;float:left }
+.lfbox1 .con{background:#fff;min-height:50px;padding:10px;}
+
+.lfbox2 {border:#2788bc 1px solid;overflow:hidden;margin-top:8px}
+.lfbox2 .hd{background:url("lfbox2_hd.jpg")/*tpa=http://cms2.huanghuai.edu.cn/skin/sites/hh-xiaoyou//index/lfbox2_hd.jpg*/ no-repeat;height:32px;line-height:32px;}
+.lfbox2 .hd .tt{background:url("lfbox1_tt.gif")/*tpa=http://cms2.huanghuai.edu.cn/skin/sites/hh-xiaoyou//index/lfbox1_tt.gif*/ no-repeat 15px center;padding-left:40px;color:#fff;font-size:14px;font-weight:bold;display:block;float:left }
+.lfbox2 .con{background:#fff;min-height:50px;padding:10px;}
+
+.conTab{border:#c9d4d6 1px solid;width:480px}
+.conTab  .head{background-color: #2772db;height:30px;line-height:30px;overflow:hidden}
+.conTab  .head span{ background: url("dhmini.gif")/*tpa=http://cms2.huanghuai.edu.cn/skin/sites/hh-xiaoyou//index/dhmini.gif*/ no-repeat scroll right -6px; display: block; float: left;  font-size: 14px; font-weight:bold;color:#fff;outline: medium none;cursor:pointer; height: 30px;     line-height: 30px;     padding: 0 15px;transition: all 0.2s ease-in 0s;}
+.conTab  .head span a{color:#fff;}
+.conTab  .head span.over{background: url("tabsicon.gif")/*tpa=http://cms2.huanghuai.edu.cn/skin/sites/hh-xiaoyou//index/tabsicon.gif*/ no-repeat scroll 5px center #f9f9f9;   color: #0099ff;   margin-left: -1px;}
+.conTab  .head span.over a{color: #0099ff;}
+.conTab  .head .more{color:#fff;background:url("arrow_wh.gif")/*tpa=http://cms2.huanghuai.edu.cn/skin/sites/hh-xiaoyou//index/arrow_wh.gif*/ no-repeat 30px center;margin-right:15px;}
+.conTab  .head .more a{color:#fff;}
+.conTab   .main{background:#fff;min-height:170px;padding:10px}
+
+
+.conTab2{border:#c9d4d6 1px solid;}
+.conTab2  .head{background-color: #2772db;height:30px;line-height:30px;overflow:hidden}
+.conTab2  .head span{ background: url("dhmini.gif")/*tpa=http://cms2.huanghuai.edu.cn/skin/sites/hh-xiaoyou//index/dhmini.gif*/ no-repeat scroll right -6px; display: block; float: left;  font-size: 14px; font-weight:bold;color:#fff;outline: medium none;cursor:pointer; height: 30px;     line-height: 30px;     padding: 0 15px;transition: all 0.2s ease-in 0s;}
+.conTab2  .head span a{color:#fff;}
+.conTab2  .head span.over{background: url("tabsicon.gif")/*tpa=http://cms2.huanghuai.edu.cn/skin/sites/hh-xiaoyou//index/tabsicon.gif*/ no-repeat scroll 5px center #f9f9f9;   color: #0099ff;   margin-left: -1px;}
+.conTab2  .head span.over a{color: #0099ff;}
+.conTab2  .head .more{color:#fff;background:url("arrow_wh.gif")/*tpa=http://cms2.huanghuai.edu.cn/skin/sites/hh-xiaoyou//index/arrow_wh.gif*/ no-repeat 30px center;margin-right:15px;}
+.conTab2  .head .more a{color:#fff;}
+.conTab2   .main{background:#fff;min-height:170px;padding:10px}
+
+.noticeBox{border:#b8dae4 1px solid;width:265px}
+.noticeBox .hd{background-color: #2772db;height:31px;line-height:31px;}
+.noticeBox .hd .tt{background:url("icon_notice.jpg")/*tpa=http://cms2.huanghuai.edu.cn/skin/sites/hh-xiaoyou//index/icon_notice.jpg*/ no-repeat  15px center;padding-left:55px;height:31px;line-height:31px;float:left;color:#fff;font-size:14px;font-weight:bold}
+.noticeBox .con{background:#fff;min-height:50px;padding:10px} 
+
+.noticeBox2{border:#b8dae4 1px solid;width:225px;overflow:hidden;}
+.noticeBox2 .hd{background:url("lfbox1_hd.gif")/*tpa=http://cms2.huanghuai.edu.cn/skin/sites/hh-xiaoyou//index/lfbox1_hd.gif*/ repeat-x;height:31px;line-height:31px;}
+.noticeBox2 .hd .tt{background:url("icon_notice2.jpg")/*tpa=http://cms2.huanghuai.edu.cn/skin/sites/hh-xiaoyou//index/icon_notice2.jpg*/ no-repeat  15px center;padding-left:55px;height:31px;line-height:31px;float:left;color:#fff;font-size:14px;font-weight:bold}
+.noticeBox2 .con{background:#fff;overflow:hidden;height:auto;padding:10px 10px;} 
+.noticeBox2 .nwrk{background:url("nwrukou.jpg")/*tpa=http://cms2.huanghuai.edu.cn/skin/sites/hh-xiaoyou//index/nwrukou.jpg*/ no-repeat center center #fff;}
+.noticeBox2 .nwrk a{width:57px;padding-left:40px;height:32px;line-height:32px;float:left;color:#2076b8}
+.noborder{border:none;float:right;}
+.noticeBox3{border:#b8dae4 1px solid;width:225px}
+.noticeBox3 .hd{background:url("lfbox1_hd.gif")/*tpa=http://cms2.huanghuai.edu.cn/skin/sites/hh-xiaoyou//index/lfbox1_hd.gif*/ repeat-x;height:31px;line-height:31px;}
+.noticeBox3 .hd .tt{background:url("seccodeplayer.gif")/*tpa=http://cms2.huanghuai.edu.cn/skin/sites/hh-xiaoyou//index/seccodeplayer.gif*/ no-repeat  15px center;padding-left:55px;height:31px;line-height:31px;float:left;color:#fff;font-size:14px;font-weight:bold}
+.noticeBox3 .con{background:#fff;overflow:hidden;height:auto;padding:10px 10px;} 
+
+.frdlink_txt{background:#f2f2f2;border:#e1e1e1 1px solid;height:45px;line-height:45px;}
+.frdlink_txt a{color:#565656;padding:0 15px;}
+
+.frdlink_pic span{display: block;float: left;margin-right: 10px;min-height: 50px;min-width: 50px;overflow: hidden;width: 184px;}
+.contactMeBd {margin:10px 0 0 10px}
+.contactMeUl li  {width:100%;margin:0 0 10px 0;float:left;display:inline;font-weight:bold;font-size:14px;}
+.contactMeUl li label {padding-left:20px;color:#358bb9;}
+.qklink01,.qklink02,.qklink03,.qklink04,.qklink05{clear:both;margin:5px 0 0 0;padding:0;}
+
